@@ -11,6 +11,10 @@ public class App
 		System.out.println("Adding a method");
 	}
 	
+	public void method2() {
+		System.out.println("Adding another method");
+	}
+	
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
